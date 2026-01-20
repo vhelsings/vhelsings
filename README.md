@@ -1,16 +1,14 @@
-## Hi there 👋
+$ whoami
+> learning_cybersecurity
 
-<!--
-**vhelsings/vhelsings** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+𓆩♱𓆪 learning:
+i'm currently a beginner exploring the world of security. My main focus right now is:
+- network fundamentals
+- hackthebox labs
+- windows & linux fundamentals
 
-Here are some ideas to get you started:
+𓆩♱𓆪 why github?
+- i plan to do write ups and study logs, as i am trying to adapt with this new environment
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+𓆩♱𓆪 who am i?
+- my name is julia, a tech enthusiast and a software development student from brazil.
