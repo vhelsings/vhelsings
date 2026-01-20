@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/law.gif" width="380">
+</p>
+
 $ whoami
 > learning_cybersecurity
 
