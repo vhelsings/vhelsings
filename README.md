@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/gumi.gif" width="380">
+  <img src="assets/gumi.gif" width="400">
 </p>
 
 $ whoami
