@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/old.jpg" width="100%">
+  <img src="assets/old.jpg" width="50%">
 </p>
 
 $ whoami
