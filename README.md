@@ -10,6 +10,8 @@ i'm currently a mid-tier practitioner advancing the world of security. My main s
 - network associate
 - hackthebox labs (on-going journey)
 - windows & linux admin-level
+
+☆  discovery:
 i discovered a very concerning interest in qa (quality assurance). My main status:
 - fundamentals
 - cypress
